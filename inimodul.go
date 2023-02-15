@@ -1,5 +1,5 @@
 package inimodul
 
 func SayHello() string {
-	return "Hello World"
+	return "Hello Worlda"
 }
